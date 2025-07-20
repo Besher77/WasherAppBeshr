@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "456271247026",
+    "project_id": "wash-app-70eaa",
+    "storage_bucket": "wash-app-70eaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456271247026:android:dea094fcb9e9bb4032bbab",
+        "android_client_info": {
+          "package_name": "com.example.wash_app_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456271247026-bh63m71ga881uprjd7uldr9h38eiivtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVA1XDaJ-uVXh_Ahm48iFOcl-xgxy9x3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456271247026-bh63m71ga881uprjd7uldr9h38eiivtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456271247026-2to3mt706lh20v26fa7n5fnab691440l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.washMeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456271247026:android:eef132b81486027d32bbab",
+        "android_client_info": {
+          "package_name": "com.example.wash_beshr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456271247026-bh63m71ga881uprjd7uldr9h38eiivtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVA1XDaJ-uVXh_Ahm48iFOcl-xgxy9x3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456271247026-bh63m71ga881uprjd7uldr9h38eiivtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456271247026-2to3mt706lh20v26fa7n5fnab691440l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.washMeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456271247026:android:6ea4e6c65423ad4132bbab",
+        "android_client_info": {
+          "package_name": "com.example.wash_me_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456271247026-bh63m71ga881uprjd7uldr9h38eiivtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVA1XDaJ-uVXh_Ahm48iFOcl-xgxy9x3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456271247026-bh63m71ga881uprjd7uldr9h38eiivtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456271247026-2to3mt706lh20v26fa7n5fnab691440l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.washMeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
